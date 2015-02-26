@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimationButtons</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="run">Run</string>
+    <string name="edge">Edge</string>
+    <string name="rotate">Rotate Animations</string>
+    <string name="ghost">Ghost</string>
+</resources>
